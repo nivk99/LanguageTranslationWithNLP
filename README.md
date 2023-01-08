@@ -39,6 +39,7 @@ A. Load and Examine Data:
 
 The inputs are sentences in English and  the outputs are the corresponding translations in French.
 ![](https://github.com/tommytracey/AIND-Capstone/blob/master/images/training-sample.png)
+![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Results_3.jpg)
 
 B. Tokenization:
 
