@@ -1,5 +1,5 @@
 # LanguageTranslationWithRNN
-
+![](https://www.ulatus.com/translation-blog/wp-content/uploads/2016/02/lld_wordle.jpg)
 ## ©️license & copyright©️:
 
 📧 [nivk99](https://github.com/nivk99) -  Niv Kotek (I.D: 208236315)
