@@ -26,6 +26,11 @@ Machine learning is an important component of the growing field of data science.
 Machine learning algorithms are typically created using frameworks that accelerate solution development, such as TensorFlow and PyTorch.
 ![](https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
 
+
+## ❓What is RNN❓
+A recurrent neural network (RNN) is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs.
+![](https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1200/http://dprogrammer.org/wp-content/uploads/2019/04/RNN-vs-LSTM-vs-GRU-1200x361.png)
+
 ## Goal
 In this project, we build a deep neural network that functions as part of a machine translation pipeline. The pipeline accepts English text as input and returns the French translation. The goal is to achieve the highest translation accuracy possible.
 
@@ -76,6 +81,11 @@ Validation accuracy: 98%
 Training time: 20 epochs
 ![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Results.jpg)
 ![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Results_2.jpg)
+
+
+## Future Work
+![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Future%20Work.png)
+
 
 # Project Starter Code
 In case you want to run this project yourself, below is the project starter code.
