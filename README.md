@@ -73,7 +73,8 @@ We use Keras for the frontend and TensorFlow for the backend in this project.
 Validation accuracy: 98%
 
 Training time: 20 epochs
-
+![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Results.jpg)
+![](https://github.com/nivk99/LanguageTranslationWithRNN/blob/main/images/Results_2.jpg)
 
 # Project Starter Code
 In case you want to run this project yourself, below is the project starter code.
